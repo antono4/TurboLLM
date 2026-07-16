@@ -472,3 +472,7 @@ only restriction is shipping a competing product. Each release converts to Apach
 years after it's published. Full text: [LICENSE.md](https://github.com/mohitsoni48/TurboLLM/blob/main/turbollm/LICENSE.md).
 
 <p align="center"><sub>Built for people who refuse to wait for the mainstream to bless the fast path. ⚡</sub></p>
+
+---
+
+> **Created by Antono**
